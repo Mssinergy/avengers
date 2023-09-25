@@ -11,3 +11,6 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 
 # Creamos rama
 > git checkout -b rama-villanos
+
+# Status
+> git status -sb
