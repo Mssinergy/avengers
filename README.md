@@ -19,3 +19,16 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 > git pull --all
 
 > git checkout rama-misiones
+
+# Visualizar ramas 
+> git branch -a
+
+# Borrar ramas 
+> git branch -d rama-misiones
+or 
+> git push origin --delete rama-misiones
+> git fetch
+
+# Actualiza las referencias 
+> git remote prune origin
+
