@@ -17,4 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Thor odinson
 * Nike-Fury
