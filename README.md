@@ -14,3 +14,8 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 
 # Status
 > git status -sb
+
+
+> git pull --all
+
+> git checkout rama-misiones
