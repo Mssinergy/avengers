@@ -32,3 +32,5 @@ or
 # Actualiza las referencias 
 > git remote prune origin
 
+# Creamos rama 
+> git checkout -b rama-kikat
