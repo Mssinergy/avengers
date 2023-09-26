@@ -10,7 +10,7 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 > git push --tags
 
 # Creamos rama
-> git checkout -b rama-villanos
+> git checkout -b rama-kikat
 
 # Status
 > git status -sb
@@ -26,7 +26,7 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 # Borrar ramas 
 > git branch -d rama-misiones
 or 
-> git push origin --delete rama-misiones
+> git push origin --delete rama-kikat
 > git fetch
 
 # Actualiza las referencias 
